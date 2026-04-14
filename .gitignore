@@ -4,6 +4,7 @@
 #     https://www.atlassian.com/git/tutorials/saving-changes/gitignore
 #Project specific files
 srWaC1.102.xml/
+*.xml
 # Node artifact files
 node_modules/
 dist/
